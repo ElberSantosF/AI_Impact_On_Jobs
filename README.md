@@ -16,10 +16,10 @@ Participação no Emprego – Representatividade da ocupação no total de empre
 
 ## Principais Insights
 
-###1. Distribuição do Risco de Automação
+### 1. Distribuição do Risco de Automação
 A análise da distribuição do risco de automação indica que a maioria das ocupações se concentra em níveis intermediários de risco, enquanto uma parcela menor apresenta risco elevado, geralmente associada a tarefas mais rotineiras e repetitivas.
 
-###2. Escolaridade e Exposição à IA
+### 2. Escolaridade e Exposição à IA
 Os resultados sugerem que ocupações que exigem maior nível de escolaridade tendem a apresentar menor risco de automação direta, mas maior exposição ao uso de ferramentas de IA como apoio às atividades produtivas.
 
 ### 3. Diferenças entre Setores Econômicos
